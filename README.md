@@ -1,12 +1,8 @@
-# Python Lessons - Уроки программирования на Python
+# Пайтон Лессон который сделано Аружпан Сексенбай
 
 Комплексные материалы для обучения программированию с использованием проверенных образовательных методологий.
 
-[![Методология](https://img.shields.io/badge/Методология-PRIMM%20%7C%20Parson%20%7C%20TDD-blue)](https://github.com/fleytman/python_lessons)
-[![Уровни](https://img.shields.io/badge/Уровни-3%20(Beginner%20|%20Intermediate%20|%20Advanced)-green)](https://github.com/fleytman/python_lessons)
-[![Лицензия](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow.svg)](LICENSE)
-[![Created with Claude Code](https://img.shields.io/badge/Created%20with-Claude%20Code-blueviolet)](https://claude.ai/code)
-
+ZHASLINK
 ---
 
 > 📚 **Закончили задания?** → Переходите к **[COURSES.md](COURSES.md)** — подборка бесплатных курсов и тренажёров Python!
